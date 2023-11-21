@@ -1,0 +1,11 @@
+Package: SeirPackage
+Title: ODE Solution for SEIR Epidemiological Model
+Version: 1.0.0
+Authors@R: 
+    person("Duan", "Jie", , "visjimer@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0009-3762-825X"))
+Description: This package provides tools for simulating and analyzing SEIR (Susceptible-Exposed-Infectious-Removed) epidemiological models.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
